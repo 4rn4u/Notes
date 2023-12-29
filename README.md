@@ -1,4 +1,4 @@
-# Personal Hacking Notes
+# Personal Hacking Notes!
 
 ## Syllabus
 
