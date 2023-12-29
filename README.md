@@ -11,14 +11,14 @@
         - [Port Scanning](portScan.md)
 
 - [Enumeration](enumeration.md)
-  - [SMB](smb.md)
-  - [FTP](ftp.md)
-  - [SSH](ssh.md)
-  - [HTTP](http.md)
-  - [SQL](sql.md)
-  - [SMTP](smtp.md)
+        - [SMB](smb.md)
+        - [FTP](ftp.md)
+        - [SSH](ssh.md)
+        - [HTTP](http.md)
+        - [SQL](sql.md)
+        - [SMTP](smtp.md)
 
-- [Exploitation]
+- [Exploitation](exploitation.md)
 
     - [Vulnerability Scan](vulnScan.md)
 
