@@ -3,20 +3,20 @@
 ## Syllabus
 
 - [Information Gathering](informationGathering.md)
-        - [Pasive](pasiveInfo.md)
-        - [Active](activeInfo.md)
+  - [Pasive](pasiveInfo.md)
+  - [Active](activeInfo.md)
 
 - [Scanning & Footprinting](scannFootprint.md)
-        - [Mapping a Network](netMap.md)
-        - [Port Scanning](portScan.md)
+  - [Mapping a Network](netMap.md)
+  - [Port Scanning](portScan.md)
 
 - [Enumeration](enumeration.md)
-        - [SMB](smb.md)
-        - [FTP](ftp.md)
-        - [SSH](ssh.md)
-        - [HTTP](http.md)
-        - [SQL](sql.md)
-        - [SMTP](smtp.md)
+  - [SMB](smb.md)
+  - [FTP](ftp.md)
+  - [SSH](ssh.md)
+  - [HTTP](http.md)
+  - [SQL](sql.md)
+  - [SMTP](smtp.md)
 
 - [Exploitation](exploitation.md)
 
