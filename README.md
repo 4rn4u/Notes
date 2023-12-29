@@ -1,2 +1,4 @@
-# Notes
-Personal Notes for Hacking
+# Personal Hacking Notes
+
+[Information Gathering](infogath.md)
+
