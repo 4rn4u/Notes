@@ -20,7 +20,7 @@
 
 - [Exploitation]
 
-    - [Vulnerability Scan]
+    - [Vulnerability Scan](vulnScan.md)
 
     - [Host Based Attacks](hostBased.md)
         - [Windows](windowsHost.md)
