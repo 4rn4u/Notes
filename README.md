@@ -1,12 +1,14 @@
 # Personal Hacking Notes
 
-[Information Gathering](informationGathering.md)
+## Syllabus
 
-[Scanning & Footprinting](scannFootprint.md)
+- [Information Gathering](informationGathering.md)
 
-[Enumeration](enumeration.md)
+- [Scanning & Footprinting](scannFootprint.md)
 
-[Host Based Attacks](hostbased.md)
+- [Enumeration](enumeration.md)
+
+- [Host Based Attacks](hostbased.md)
   [Windows](windowsHost.md)
   [Linux](linuxHost.md)
 
