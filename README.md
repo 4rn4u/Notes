@@ -40,16 +40,16 @@
     - [Shells](shells.md)
   
     - [Privilege Escalation](privEsc.md)
-          - [Windows PrivEsc](winPrivEsc.md)
-          - [Linux PrivEsc](linPrivEsc.md)
+        - [Windows PrivEsc](winPrivEsc.md)
+        - [Linux PrivEsc](linPrivEsc.md)
 
     - [Credential Dumping](credDump.md)
-          - [Windows CredDump](winCredDump.md)
-          - [Linux CredDump](linCredDump.md)
+        - [Windows CredDump](winCredDump.md)
+        - [Linux CredDump](linCredDump.md)
 
     - [Persistance](persistance.md)
-          - [Windows Persistance](winPers.md)
-          - [Linux Persistance](linPers.md)
+        - [Windows Persistance](winPers.md)
+        - [Linux Persistance](linPers.md)
 
     - [Clearing Tracks](clearTracks.md)
 
