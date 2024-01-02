@@ -12,7 +12,7 @@ $ net use z: \\10.4.17.133\c$ smbserver_771 /user:administrator
 
 --------------------------------------------------------------------
 
-### Some scans with nmap:
+### Some Scans with Nmap
 
 ```
 $ nmap 0.0.0.0 -sV -p …
@@ -24,7 +24,7 @@ $ nmap 0.0.0.0 -sU —top-port 25 —open -sV
 
 --------------------------------------------------------------------
 
-### Some scripts for nmap:
+### Some scripts for nmap
 
 ```
 $ nmap 0.0.0.0 -p 445 —script smb-os-discovery
@@ -55,6 +55,15 @@ $ nmap -p445 —script smb-enum-services —script-args username=administrator, 
 
 $ nmap -p445 —script smb-enum-shares,smb-ls —script-args username=administrator, password=smbserver_771 0.0.0.0
 ```
+
+--------------------------------------------------------------------
+
+### BRUTEFORCE
+
+```
+$ hydra -l admin -P /usr/shar/wordlists/rockyou.txt 0.0.0.0 smb
+```
+
 
 --------------------------------------------------------------------
 
