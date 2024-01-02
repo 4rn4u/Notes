@@ -120,6 +120,8 @@ $ enum4linux -G 0.0.0.0 (Groups)
 $ enum4linux -i 0.0.0.0 (Info)
 
 $ enum4linux -r -u “admin” -p “password1”
+
+$ enum4linux -u vagrant -p vagrant -U 0.0.0.0
 ```
 
 --------------------------------------------------------------------

