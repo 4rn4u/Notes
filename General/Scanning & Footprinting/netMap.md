@@ -2,10 +2,10 @@
 
 > With acces to the network we use sniffing —> passive reconnaissance, watch network traffic
 
-ARP —> Addres Resolution Protocol (Resolve Ip to MAC)
+- ARP —> Addres Resolution Protocol (Resolve Ip to MAC)
     - 10.10.1.5 is at 00:0c:29:af:ea:d2
 
-ICMP —> Internet Control Message Protocol
+- ICMP —> Internet Control Message Protocol
     - Traceroute
     - Ping
         - Type 8 - echo request
