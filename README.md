@@ -36,6 +36,8 @@
 - [Post Exploitation](/General/Post%20Exploitation/postExpl.md)
 
     - [Post Exp Enumeration](/General/Post%20Exploitation/Post%20Exploitation%20Enumeration/postExpEnumeration.md)
+
+    - [File Transferring](/General/Post%20Exploitation/Transferring%20FIles/fileTrans.md)
  
     - [Shells](/General/Post%20Exploitation/Shells/shells.md)
   
