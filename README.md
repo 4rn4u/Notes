@@ -20,8 +20,6 @@
 
 - [Exploitation](/General/Exploitation/exploitation.md)
 
-    - [Vulnerability Scan](/General/Exploitation/Vulnerability%20Scan/vulnScan.md)
-
     - [Host Based Attacks](/General/Exploitation/Host%20Based%20Attacks/hostBased.md)
         - [Windows](/General/Exploitation/Host%20Based%20Attacks/windowsHost.md)
         - [Linux](/General/Exploitation/Host%20Based%20Attacks/linuxHost.md)
