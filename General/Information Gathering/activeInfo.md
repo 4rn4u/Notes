@@ -1,6 +1,6 @@
 # Active Information Gathering
 
-**DNS ZONE TRANSFERS:**
+## DNS ZONE TRANSFERS:
 ```
 $ dnsenum zonetransfer.me
 ```
