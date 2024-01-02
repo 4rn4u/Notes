@@ -27,6 +27,8 @@
     - [Network Based Attacks](/General/Exploitation/Network%20Based%20Attacks/netBased.md)
  
     - [Web](/General/Exploitation/Web/web.md)
+        - [Web Enumeration](/General/Exploitation/Web/webEnumeration.md)
+        - [Web Attacks](/General/Exploitation/Web/webAttacks.md)
  
     - [Metasploit](/General/Exploitation/Metasploit/metasploit.md)
 
