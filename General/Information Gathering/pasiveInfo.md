@@ -3,6 +3,7 @@ Obtain Ip adress:
 ```
 $ host web.org
 ```
+--------------------------------------------------------------------
 
 > [!IMPORTANT]
 > Search for Names, e-mails adresses...
@@ -44,6 +45,7 @@ $ wafw00f web.org -a (for checking all types)
 Use sublist3r for passive enumeration of directories etc.
 ```
 $ sublist3r -d web.org -e google,yahoo
+
 $ sublist3r -d web.org
 ```
 
