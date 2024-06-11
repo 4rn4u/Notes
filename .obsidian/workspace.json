@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "General/Scanning & Footprinting/Bypass Security Measures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "General/Scanning & Footprinting/Bypass Security Measures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "General/Scanning & Footprinting/Bypass Security Measures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "General/Scanning & Footprinting/Bypass Security Measures.md"
               }
             }
           }
@@ -147,5 +147,16 @@
     }
   },
   "active": "019f4a3a3ed10d02",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "General/Enumeration/enumeration.md",
+    "General/Scanning & Footprinting/Bypass Security Measures.md",
+    "README.md",
+    "General/Scanning & Footprinting/portScan.md",
+    "General/Information Gathering/activeInfo.md",
+    "General/Information Gathering/pasiveInfo.md",
+    "General/Scanning & Footprinting/scannFootprint.md",
+    "General/Scanning & Footprinting/netMap.md",
+    "General/Exploitation/Web/webAttacks.md",
+    "General/Exploitation/Web/web.md"
+  ]
 }
