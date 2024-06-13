@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Scanning & Footprinting/Bypass Security Measures.md",
+                "file": "General/Information Gathering/activeInfo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Scanning & Footprinting/Bypass Security Measures.md",
+                "file": "General/Information Gathering/activeInfo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Scanning & Footprinting/Bypass Security Measures.md",
+                "file": "General/Information Gathering/activeInfo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Scanning & Footprinting/Bypass Security Measures.md"
+                "file": "General/Information Gathering/activeInfo.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "019f4a3a3ed10d02",
   "lastOpenFiles": [
-    "General/Enumeration/enumeration.md",
     "General/Scanning & Footprinting/Bypass Security Measures.md",
+    "General/Enumeration/enumeration.md",
     "README.md",
     "General/Scanning & Footprinting/portScan.md",
     "General/Information Gathering/activeInfo.md",

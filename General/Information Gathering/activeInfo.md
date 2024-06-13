@@ -2,6 +2,8 @@
 
 --------------------------------------------------------------------
 
+RustScan
+
 ## DNS ZONE TRANSFERS:
 ```
 $ dnsenum zonetransfer.me
