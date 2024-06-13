@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------
 
-RustScan
+RustScan including Nmap
 
 ## DNS ZONE TRANSFERS:
 ```
