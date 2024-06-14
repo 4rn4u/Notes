@@ -2,6 +2,8 @@
 
 > ping <ip>
 
+RustMap
+
 **NMAP PORTS:**
 ```
 $ nmap -Pn (ip)
