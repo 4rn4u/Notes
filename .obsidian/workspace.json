@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerability Assesment/Untitled.md",
+                "file": "General/Vulnerability Assesment/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerability Assesment/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerability Assesment/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerability Assesment/Untitled.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -166,12 +164,13 @@
   },
   "active": "dad365a6bf93309f",
   "lastOpenFiles": [
-    "Lateral Movement/Untitled.md",
-    "Vulnerability Assesment/Untitled.md",
+    "General/Vulnerability Assesment/Untitled.md",
+    "Untitled.md",
+    "General/Lateral Movement/Untitled.md",
     "README.md",
     "General/Information Gathering/Information Gathering Syllabus.md",
-    "Vulnerability Assesment",
-    "Lateral Movement",
+    "General/Vulnerability Assesment",
+    "General/Lateral Movement",
     "Lateral Movement.md",
     "General/Information Gathering/OSINT - Passive Information Gathering.md",
     "General/Information Gathering/Mapping a Network.md",
