@@ -68,13 +68,13 @@ All contributions will be welcome! If you'd like to contribute, please follow th
 
 ## Syllabus
 
-- [Information Gathering Syllabus](/General/Information%20Gathering/Information%20Gathering%20Syllabus.md)
+- [Information Gathering & Vulnerability Assesment Syllabus](Information%20Gathering%20Syllabus.md)
 
-  - [Pasive Gathering](/General/Information%20Gathering/OSINT%20-%20Passive%20Information%20Gathering.md)
-  - [Active Gathering](/General/Information%20Gathering/Active%20Information%20Gathering.md)
-  - [Mapping a Network (Discovering)](/General/Information%20Gathering/Mapping%20a%20Network.md)
-  - [Port Scanning](/General/Information%20Gathering/Port%20Scanning.md)
-  -  [Bypass Secutrity Measures](/General/Information%20Gathering/Bypass%20Security%20Measures.md)
+  - [Pasive Gathering](OSINT%20-%20Passive%20Information%20Gathering.md)
+  - [Active Gathering](Active%20Information%20Gathering.md)
+  - [Mapping a Network (Discovering)](Mapping%20a%20Network.md)
+  - [Port Scanning](Port%20Scanning.md)
+  -  [Bypass Secutrity Measures](Bypass%20Security%20Measures.md)
   - [Enumeration](/General/Information%20Gathering/enumeration.md)
 	  - [SMB](/General/Information%20Gathering/Enumeration/smb.md)
 	  - [FTP](/General/Information%20Gathering/Enumeration/ftp.md)
@@ -82,9 +82,6 @@ All contributions will be welcome! If you'd like to contribute, please follow th
 	  - [HTTP](/General/Information%20Gathering/Enumeration/http.md)
 	  - [SQL](/General/Information%20Gathering/Enumeration/sql.md)
 	  - [SMTP](/General/Information%20Gathering/Enumeration/smtp.md)
-
-
-- [Vulnerability Assesment]()
 
 
 - [Exploitation](/General/Exploitation/exploitation.md)

@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Information Gathering/Information Gathering Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8cc0880d112b431b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "65836629d58d9164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Vulnerability Assesment/Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,22 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad365a6bf93309f",
+  "active": "084badd6625876d0",
   "lastOpenFiles": [
-    "General/Vulnerability Assesment/Untitled.md",
+    "General/Information Gathering & Vulnerability Assesment/Information Gathering Syllabus.md",
+    "Untitled.canvas",
     "Untitled.md",
+    "General/Vulnerability Assesment/Untitled.md",
     "General/Lateral Movement/Untitled.md",
     "README.md",
-    "General/Information Gathering/Information Gathering Syllabus.md",
     "General/Vulnerability Assesment",
     "General/Lateral Movement",
     "Lateral Movement.md",
-    "General/Information Gathering/OSINT - Passive Information Gathering.md",
-    "General/Information Gathering/Mapping a Network.md",
-    "General/Information Gathering/Active Information Gathering.md",
-    "General/Information Gathering/Port Scanning.md",
-    "General/Information Gathering/Enumerating Services/enumeration.md",
-    "General/Information Gathering/Bypass Security Measures.md",
+    "General/Information Gathering & Vulnerability Assesment/OSINT - Passive Information Gathering.md",
+    "General/Information Gathering & Vulnerability Assesment/Mapping a Network.md",
+    "General/Information Gathering & Vulnerability Assesment/Active Information Gathering.md",
+    "General/Information Gathering & Vulnerability Assesment/Port Scanning.md",
+    "General/Information Gathering & Vulnerability Assesment/Enumerating Services/enumeration.md",
+    "General/Information Gathering & Vulnerability Assesment/Bypass Security Measures.md",
     "General/Information Gathering/Scanning & Footprinting/scannFootprint.md",
     "General/Information Gathering/OSINT.md",
     "General/Pre-Engagement/Contractors Agreement.md",
