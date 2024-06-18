@@ -68,21 +68,24 @@ All contributions will be welcome! If you'd like to contribute, please follow th
 
 ## Syllabus
 
-- [Information Gathering](/General/Information%20Gathering/informationGathering.md)
-  - [Pasive](/General/Information%20Gathering/pasiveInfo.md)
-  - [Active](/General/Information%20Gathering/activeInfo.md)
+- [Information Gathering Syllabus](Information%20Gathering%20Syllabus.md)
+  - [Pasive Gathering](OSINT%20-%20Passive%20Information%20Gathering.md)
+  - [Active Gathering](Active%20Information%20Gathering.md)
+  - [Mapping a Network (Discovering)](Mapping%20a%20Network.md)
+  - [Port Scanning](Port%20Scanning.md)
+  -  [Bypass Secutrity Measures](Bypass%20Security%20Measures.md)
+  - [Enumeration](enumeration.md)
+	  - [SMB](smb.md)
+	  - [FTP](ftp.md)
+	  - [SSH](ssh.md)
+	  - [HTTP](http.md)
+	  - [SQL](sql.md)
+	  - [SMTP](smtp.md)
 
-- [Scanning & Footprinting](/General/Scanning%20&%20Footprinting/scannFootprint.md)
-  - [Mapping a Network](/General/Scanning%20&%20Footprinting/netMap.md)
-  - [Port Scanning](/General/Scanning%20&%20Footprinting/portScan.md)
+- [Scanning & Footprinting](scannFootprint.md)
+  - [Mapping a Network](Mapping%20a%20Network.md)
+  - [Port Scanning](Port%20Scanning.md)
 
-- [Enumeration](/General/Enumeration/enumeration.md)
-  - [SMB](/General/Enumeration/smb.md)
-  - [FTP](/General/Enumeration/ftp.md)
-  - [SSH](/General/Enumeration/ssh.md)
-  - [HTTP](/General/Enumeration/http.md)
-  - [SQL](/General/Enumeration/sql.md)
-  - [SMTP](/General/Enumeration/smtp.md)
 
 - [Exploitation](/General/Exploitation/exploitation.md)
 

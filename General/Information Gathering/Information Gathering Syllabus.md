@@ -1,0 +1,42 @@
+# Information Gathering Syllabus
+
+The Information Gathering phase is a crucial step in the penetration testing process. It involves collecting as much information as possible about the target to identify potential attack vectors. This phase can be divided into several sub-phases, each focusing on different aspects of information collection. Below is an overview of the topics covered in this syllabus:
+
+- [Passive Gathering](OSINT%20-%20Passive%20Information%20Gathering.md)
+  - Techniques and tools used to gather information without directly interacting with the target.
+
+- [Active Gathering](Active%20Information%20Gathering.md)
+  - Methods for collecting information through direct interaction with the target system.
+
+- [Mapping a Network (Discovering)](Mapping%20a%20Network.md)
+  - Strategies to map out the target network to understand its structure and components.
+
+- [Port Scanning](Port%20Scanning.md)
+  - Techniques for scanning open ports on the target system to identify potential points of entry.
+
+- [Bypass Security Measures](Bypass%20Security%20Measures.md)
+  - Methods to circumvent security measures that protect the target system.
+
+- [Enumeration](enumeration.md)
+  - Techniques to gather detailed information about network resources, shares, and services.
+
+	  - [SMB](smb.md)
+	    - Gathering information on Server Message Block (SMB) protocol.
+
+	  - [FTP](ftp.md)
+	    - Techniques for enumerating File Transfer Protocol (FTP) services.
+
+	  - [SSH](ssh.md)
+	    - Methods for gathering information on Secure Shell (SSH) services.
+
+	  - [HTTP](http.md)
+	    - Techniques for enumerating HyperText Transfer Protocol (HTTP) services.
+
+	  - [SQL](sql.md)
+	    - Methods for gathering information on SQL databases.
+
+	  - [SMTP](smtp.md)
+	    - Techniques for enumerating Simple Mail Transfer Protocol (SMTP) services.
+
+
+
