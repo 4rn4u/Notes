@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains my penetration testing notes, covering each phase. Whether you're a beginner or an experienced professional, you'll find valuable information to enhance your cybersecurity skills.
+This repository contains all the notes I take during my certifications studying. I tried to cover each phase of a Penetration Test to be able to acces them easily. Whether you're a beginner or an experienced professional, you'll find valuable information to enhance your cybersecurity skills.
 
 ## Information Gathering
 
