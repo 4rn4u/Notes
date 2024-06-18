@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Vulnerability Assesment/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Vulnerability Assesment/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Vulnerability Assesment/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Vulnerability Assesment/Untitled.md"
               }
             }
           }
@@ -164,10 +164,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65836629d58d9164",
+  "active": "dad365a6bf93309f",
   "lastOpenFiles": [
-    "General/Information Gathering/Information Gathering Syllabus.md",
+    "Lateral Movement/Untitled.md",
+    "Vulnerability Assesment/Untitled.md",
     "README.md",
+    "General/Information Gathering/Information Gathering Syllabus.md",
+    "Vulnerability Assesment",
+    "Lateral Movement",
+    "Lateral Movement.md",
     "General/Information Gathering/OSINT - Passive Information Gathering.md",
     "General/Information Gathering/Mapping a Network.md",
     "General/Information Gathering/Active Information Gathering.md",
