@@ -69,19 +69,19 @@ All contributions will be welcome! If you'd like to contribute, please follow th
 ## Syllabus
 
 - [Information Gathering & Vulnerability Assesment Syllabus](Information%20Gathering%20Syllabus.md)
-
-  - [Pasive Gathering](OSINT%20-%20Passive%20Information%20Gathering.md)
-  - [Active Gathering](Active%20Information%20Gathering.md)
-  - [Mapping a Network (Discovering)](Mapping%20a%20Network.md)
-  - [Port Scanning](Port%20Scanning.md)
-  -  [Bypass Secutrity Measures](Bypass%20Security%20Measures.md)
-  - [Enumeration](/General/Information%20Gathering/enumeration.md)
-	  - [SMB](/General/Information%20Gathering/Enumeration/smb.md)
-	  - [FTP](/General/Information%20Gathering/Enumeration/ftp.md)
-	  - [SSH](/General/Information%20Gathering/Enumeration/ssh.md)
-	  - [HTTP](/General/Information%20Gathering/Enumeration/http.md)
-	  - [SQL](/General/Information%20Gathering/Enumeration/sql.md)
-	  - [SMTP](/General/Information%20Gathering/Enumeration/smtp.md)
+	
+	- [Pasive Gathering](OSINT%20-%20Passive%20Information%20Gathering.md)
+	- [Active Gathering](Active%20Information%20Gathering.md)
+	- [Mapping a Network (Discovering)](Mapping%20a%20Network.md)
+	- [Port Scanning](Port%20Scanning.md)
+	-  [Bypass Secutrity Measures](Bypass%20Security%20Measures.md)
+	  - [Enumeration](/General/Information%20Gathering/enumeration.md)
+		  - [SMB](/General/Information%20Gathering/Enumeration/smb.md)
+		  - [FTP](/General/Information%20Gathering/Enumeration/ftp.md)
+		  - [SSH](/General/Information%20Gathering/Enumeration/ssh.md)
+		  - [HTTP](/General/Information%20Gathering/Enumeration/http.md)
+		  - [SQL](/General/Information%20Gathering/Enumeration/sql.md)
+		  - [SMTP](/General/Information%20Gathering/Enumeration/smtp.md)
 
 
 - [Exploitation](/General/Exploitation/exploitation.md)
@@ -90,7 +90,6 @@ All contributions will be welcome! If you'd like to contribute, please follow th
         - [Windows](/General/Exploitation/Host%20Based%20Attacks/windowsHost.md)
         - [Linux](/General/Exploitation/Host%20Based%20Attacks/linuxHost.md)
         - [Exploits](/General/Exploitation/Host%20Based%20Attacks/exploits.md)
-
     - [Network Based Attacks](/General/Exploitation/Network%20Based%20Attacks/netBased.md)
  
     - [Web](/General/Exploitation/Web/web.md)
