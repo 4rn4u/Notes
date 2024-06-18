@@ -8,7 +8,6 @@ This repository contains my penetration testing notes, covering each phase. Whet
 
 Information gathering describes how we obtain information about the necessary components in various ways. We search for information about the target company and the software and hardware in use to find potential security gaps that we may be able to leverage for a foothold.
 
-### Notes
 - Techniques for gathering information
 - Tools commonly used
 - Case studies and examples
@@ -17,7 +16,6 @@ Information gathering describes how we obtain information about the necessary co
 
 Once we get to the Vulnerability Assessment stage, we analyze the results from our Information Gathering stage, looking for known vulnerabilities in the systems, applications, and various versions of each to discover possible attack vectors.
 
-### Notes
 - Methods for vulnerability assessment
 - Manual vs automated assessment
 - Tools and resources
@@ -27,7 +25,6 @@ Once we get to the Vulnerability Assessment stage, we analyze the results from o
 
 In the Exploitation stage, we use the results to test our attacks against the potential vectors and execute them against the target systems to gain initial access to those systems.
 
-### Notes
 - Common exploitation techniques
 - Tools and frameworks
 - Real-world examples and case studies
@@ -36,7 +33,6 @@ In the Exploitation stage, we use the results to test our attacks against the po
 
 At this stage of the penetration test, we already have access to the exploited machine and ensure that we still have access to it even if modifications and changes are made.
 
-### Notes
 - Privilege escalation techniques
 - Persistence mechanisms
 - Data exfiltration strategies
@@ -45,7 +41,6 @@ At this stage of the penetration test, we already have access to the exploited m
 
 Lateral movement describes movement within the internal network of our target company to access additional hosts at the same or a higher privilege level.
 
-### Notes
 - Techniques for lateral movement
 - Tools and methods
 - Examples and case studies
@@ -54,7 +49,6 @@ Lateral movement describes movement within the internal network of our target co
 
 In this stage, we document, step-by-step, the steps we took to achieve network compromise or some level of access.
 
-### Notes
 - Documentation best practices
 - Creating scripts for reproducibility
 - Example documentation
@@ -63,14 +57,13 @@ In this stage, we document, step-by-step, the steps we took to achieve network c
 
 During post-engagement, detailed documentation is prepared for both administrators and client company management to understand the severity of the vulnerabilities found.
 
-### Notes
 - Preparing reports
 - Cleanup procedures
 - Deliverables and presentations
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute, please follow these guidelines:
+All contributions will be welcome! If you'd like to contribute, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
