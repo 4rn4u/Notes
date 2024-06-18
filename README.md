@@ -68,7 +68,7 @@ All contributions will be welcome! If you'd like to contribute, please follow th
 
 ## Syllabus
 
-- [Information Gathering Syllabus](Information%20Gathering%20Syllabus.md)
+- [Information Gathering Syllabus](/General/Information%20Gathering/Information%20Gathering%20Syllabus.md)
   - [Pasive Gathering](OSINT%20-%20Passive%20Information%20Gathering.md)
   - [Active Gathering](Active%20Information%20Gathering.md)
   - [Mapping a Network (Discovering)](Mapping%20a%20Network.md)

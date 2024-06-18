@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Information Gathering/Information Gathering Syllabus.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Information Gathering/Information Gathering Syllabus.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Information Gathering/Information Gathering Syllabus.md"
+                "file": "README.md"
               }
             }
           }
@@ -164,14 +164,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "084badd6625876d0",
+  "active": "65836629d58d9164",
   "lastOpenFiles": [
-    "General/Information Gathering/Mapping a Network.md",
+    "General/Information Gathering/Information Gathering Syllabus.md",
     "README.md",
     "General/Information Gathering/OSINT - Passive Information Gathering.md",
+    "General/Information Gathering/Mapping a Network.md",
     "General/Information Gathering/Active Information Gathering.md",
     "General/Information Gathering/Port Scanning.md",
-    "General/Information Gathering/Information Gathering Syllabus.md",
     "General/Information Gathering/Enumerating Services/enumeration.md",
     "General/Information Gathering/Bypass Security Measures.md",
     "General/Information Gathering/Scanning & Footprinting/scannFootprint.md",
