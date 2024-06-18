@@ -10,7 +10,6 @@ Information gathering describes how we obtain information about the necessary co
 
 - Techniques for gathering information
 - Tools commonly used
-- Case studies and examples
 
 ## Vulnerability Assessment
 
@@ -27,7 +26,6 @@ In the Exploitation stage, we use the results to test our attacks against the po
 
 - Common exploitation techniques
 - Tools and frameworks
-- Real-world examples and case studies
 
 ## Post-Exploitation
 
@@ -43,7 +41,6 @@ Lateral movement describes movement within the internal network of our target co
 
 - Techniques for lateral movement
 - Tools and methods
-- Examples and case studies
 
 ## Proof-of-Concept
 
@@ -51,7 +48,6 @@ In this stage, we document, step-by-step, the steps we took to achieve network c
 
 - Documentation best practices
 - Creating scripts for reproducibility
-- Example documentation
 
 ## Post-Engagement
 
