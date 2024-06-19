@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Information Gathering & Vulnerability Assesment/Mapping a Network.md",
-                "mode": "source",
+                "file": "General/Information Gathering & Vulnerability Assesment/OSINT - Passive Information Gathering.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Information Gathering & Vulnerability Assesment/Mapping a Network.md",
+                "file": "General/Information Gathering & Vulnerability Assesment/OSINT - Passive Information Gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Information Gathering & Vulnerability Assesment/Mapping a Network.md",
+                "file": "General/Information Gathering & Vulnerability Assesment/OSINT - Passive Information Gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Information Gathering & Vulnerability Assesment/Mapping a Network.md"
+                "file": "General/Information Gathering & Vulnerability Assesment/OSINT - Passive Information Gathering.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "084badd6625876d0",
   "lastOpenFiles": [
-    "General/Information Gathering & Vulnerability Assesment/Port Scanning.md",
     "General/Information Gathering & Vulnerability Assesment/Mapping a Network.md",
+    "General/Information Gathering & Vulnerability Assesment/Port Scanning.md",
     "General/Information Gathering & Vulnerability Assesment/Active Information Gathering.md",
     "README.md",
     "General/Information Gathering/enumeration.md",
