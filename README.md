@@ -68,20 +68,20 @@ All contributions will be welcome! If you'd like to contribute, please follow th
 
 ## Syllabus
 
-- [Information Gathering & Vulnerability Assesment Syllabus](Information%20Gathering%20Syllabus.md)
+- [Information Gathering & Vulnerability Assesment Syllabus](General/Information%20Gathering%20Syllabus.md)
 	
-	- [Pasive Gathering](OSINT%20-%20Passive%20Information%20Gathering.md)
-	- [Active Gathering](Active%20Information%20Gathering.md)
-	- [Mapping a Network (Discovering)](Mapping%20a%20Network.md)
-	- [Port Scanning](Port%20Scanning.md)
-	-  [Bypass Secutrity Measures](Bypass%20Security%20Measures.md)
-	- [Enumeration](/General/Information%20Gathering/enumeration.md)
-		- [SMB](/General/Information%20Gathering/Enumeration/smb.md)
-		- [FTP](/General/Information%20Gathering/Enumeration/ftp.md)
-		- [SSH](/General/Information%20Gathering/Enumeration/ssh.md)
-		- [HTTP](/General/Information%20Gathering/Enumeration/http.md)
-		- [SQL](/General/Information%20Gathering/Enumeration/sql.md)
-		- [SMTP](/General/Information%20Gathering/Enumeration/smtp.md)
+	- [Pasive Gathering](General/Information%20Gathering%20&%20Vulnerability%20Assesment/OSINT%20-%20Passive%20Information%20Gathering.md)
+	- [Active Gathering](General/Information%20Gathering%20&%20Vulnerability%20Assesment/Active%20Information%20Gathering.md)
+	- [Mapping a Network (Discovering)](General/Information%20Gathering%20&%20Vulnerability%20Assesment/Mapping%20a%20Network.md)
+	- [Port Scanning](General/Information%20Gathering%20&%20Vulnerability%20Assesment/Port%20Scanning.md)
+	-  [Bypass Secutrity Measures](General/Information%20Gathering%20&%20Vulnerability%20Assesment/Bypass%20Security%20Measures.md)
+	- [Enumeration](General/Information%20Gathering%20&%20Vulnerability%20Assesment/enumeration.md)
+		- [SMB](General/Information%20Gathering%20&%20Vulnerability%20Assesment/Enumeration/smb.md)
+		- [FTP](General/Information%20Gathering%20&%20Vulnerability%20Assesment/Enumeration/ftp.md)
+		- [SSH](General/Information%20Gathering%20&%20Vulnerability%20Assesment/Enumeration/ssh.md)
+		- [HTTP](General/Information%20Gathering%20&%20Vulnerability%20Assesment/Enumeration/http.md)
+		- [SQL](General/Information%20Gathering%20&%20Vulnerability%20Assesment/Enumeration/sql.md)
+		- [SMTP](General/Information%20Gathering%20&%20Vulnerability%20Assesment/Enumeration/smtp.md)
 
 
 - [Exploitation](/General/Exploitation/exploitation.md)
