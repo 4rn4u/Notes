@@ -76,12 +76,12 @@ All contributions will be welcome! If you'd like to contribute, please follow th
 	- [Port Scanning](Port%20Scanning.md)
 	-  [Bypass Secutrity Measures](Bypass%20Security%20Measures.md)
 	- [Enumeration](/General/Information%20Gathering/enumeration.md)
-		  - [SMB](/General/Information%20Gathering/Enumeration/smb.md)
-		  - [FTP](/General/Information%20Gathering/Enumeration/ftp.md)
-		  - [SSH](/General/Information%20Gathering/Enumeration/ssh.md)
-		  - [HTTP](/General/Information%20Gathering/Enumeration/http.md)
-		  - [SQL](/General/Information%20Gathering/Enumeration/sql.md)
-		  - [SMTP](/General/Information%20Gathering/Enumeration/smtp.md)
+		- [SMB](/General/Information%20Gathering/Enumeration/smb.md)
+		- [FTP](/General/Information%20Gathering/Enumeration/ftp.md)
+		- [SSH](/General/Information%20Gathering/Enumeration/ssh.md)
+		- [HTTP](/General/Information%20Gathering/Enumeration/http.md)
+		- [SQL](/General/Information%20Gathering/Enumeration/sql.md)
+		- [SMTP](/General/Information%20Gathering/Enumeration/smtp.md)
 
 
 - [Exploitation](/General/Exploitation/exploitation.md)
