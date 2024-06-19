@@ -68,7 +68,7 @@ All contributions will be welcome! If you'd like to contribute, please follow th
 
 ## Syllabus
 
-- [Information Gathering & Vulnerability Assesment Syllabus](/General/Information%20Gathering%20Syllabus.md)
+- [Information Gathering & Vulnerability Assesment Syllabus](/General/Information%20Gathering%20&%20Vulnerability%20Assesment/Information%20Gathering%20Syllabus.md)
 	
 	- [Pasive Gathering](/General/Information%20Gathering%20&%20Vulnerability%20Assesment/OSINT%20-%20Passive%20Information%20Gathering.md)
 	- [Active Gathering](/General/Information%20Gathering%20&%20Vulnerability%20Assesment/Active%20Information%20Gathering.md)
