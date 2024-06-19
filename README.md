@@ -1,4 +1,4 @@
-# Personal Hacking Notes!
+ # Personal Hacking Notes!
 
 ## Introduction
 
@@ -75,7 +75,7 @@ All contributions will be welcome! If you'd like to contribute, please follow th
 	- [Mapping a Network (Discovering)](Mapping%20a%20Network.md)
 	- [Port Scanning](Port%20Scanning.md)
 	-  [Bypass Secutrity Measures](Bypass%20Security%20Measures.md)
-	  - [Enumeration](/General/Information%20Gathering/enumeration.md)
+	- [Enumeration](/General/Information%20Gathering/enumeration.md)
 		  - [SMB](/General/Information%20Gathering/Enumeration/smb.md)
 		  - [FTP](/General/Information%20Gathering/Enumeration/ftp.md)
 		  - [SSH](/General/Information%20Gathering/Enumeration/ssh.md)
