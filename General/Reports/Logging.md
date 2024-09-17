@@ -28,3 +28,7 @@ Another handy trick is the ability to take a screen capture of the current Tmux 
 To recreate the above example first start a new tmux session: `tmux new -s sessionname`. Once in the session type `[Ctrl] + [B]` + `[Shift] + [%]` (`prefix` + `[Shift] + [%]`) to split the panes vertically (replace the `[%]` with `["]` to do a horizontal split). We can then move from pane to pane by typing `[Ctrl] + [B]` + `[O]` (`prefix` + `[O]`).
 
 Finally, we can clear the pane history by typing `[Ctrl] + [B]` followed by `[Alt] + [C]` (`prefix` + `[Alt] + [C]`).
+
+```shell-session
+$ mkdir -p ACME-IPT/{Admin,Deliverables,Evidence/{Findings,Scans/{Vuln,Service,Web,'AD Enumeration'},Notes,OSINT,Wireless,'Logging output','Misc Files'},Retest}
+```
